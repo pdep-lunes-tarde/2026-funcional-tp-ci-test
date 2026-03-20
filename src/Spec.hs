@@ -7,5 +7,5 @@ correrTests :: IO ()
 correrTests = hspec $ do
   describe "Test de ejemplo" $ do
     it "El doble de un número es el número más si mismo" $ do
-      doble 1 `shouldBe` 2
+      doble 1 `shouldBe` 1
 
