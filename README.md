@@ -87,6 +87,6 @@ Estamos usando Stack porque permite hacer algunas cosas que serían más difíci
 
 PdePreludat es una librería que estamos usando en algunos cursos en vez de la librería estandar que usa Haskell por defecto (la cual se llama Prelude). Idealmente simplifica algunas cosas que no son necesarias a la materia y mejora algunos mensajes de error que les pueden aparecer en Haskell. El `import PdePreludat` lo necesitamos para poder usar un montón de funciones que vamos a usar en la materia (como la función suma `(+)` que aparece en este ejercicio).
 
-Try 1
+Try 2
 
 Para leer más sobre esto: https://github.com/10Pines/pdepreludat
